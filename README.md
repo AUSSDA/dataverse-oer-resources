@@ -1,5 +1,5 @@
 # dataverse-oer-resources
-Towards a programmable Dataverse: Finding, getting and analysing the Data you need
+Towards a programmable Dataverse: Finding, getting and analysing the data you need
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
