@@ -16,5 +16,5 @@
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="AT" about="https://github.com/AUSSDA/dataverse-oer-resources">
-  Österreich</span>.
+  Austria</span>.
 </p>
