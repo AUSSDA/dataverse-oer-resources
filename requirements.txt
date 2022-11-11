@@ -1,0 +1,7 @@
+requests 
+jsonschema 
+pandas 
+numpy 
+matplotlib
+
+pyDataverse
