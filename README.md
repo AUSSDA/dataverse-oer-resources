@@ -18,3 +18,5 @@ This work is published from:
       content="AT" about="https://github.com/AUSSDA/dataverse-oer-resources">
   Austria</span>.
 </p>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AUSSDA/dataverse-oer-resources/HEAD)
