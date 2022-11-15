@@ -22,7 +22,6 @@ files_list <- dataset$files[c("filename", "contentType")]
 filename <- files_list$filename
 ext <- unlist(strsplit(filename, "\\."))[c(F,T)]
 ident <- filename[which(ext %in% "tab")][1] # save the filename of the first .tab file
-\end{lstlisting}
 
 # Downloading Data: download data
 data <- get_dataframe_by_name(
